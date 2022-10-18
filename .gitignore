@@ -1,0 +1,8 @@
+# json creds
+*.json
+
+# zip files
+*.zip
+
+# python config
+*.pyc
