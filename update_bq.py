@@ -140,10 +140,10 @@ if __name__ == '__main__':
 
     credentials = delegate_credentials()
     
-    # GS_Dipendenti
+    # 
     routine_gs(dipendenti, credentials, logger)
 
-    # GS_Economics
+    # 
     routine_gs(economics, credentials, logger)
 
     # update views
